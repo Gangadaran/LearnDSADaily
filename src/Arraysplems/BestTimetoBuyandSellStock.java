@@ -5,7 +5,7 @@ import org.junit.Test;
 public class BestTimetoBuyandSellStock {
     @Test
     public void testCase(){
-        int[] prices = {7,1,5,3,6,4};
+        int[] prices = {7,1,5,3,6,7};
         System.out.println(maxProfit1(prices));
     }
 
